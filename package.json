@@ -1,7 +1,11 @@
 {
-  "name": "next-intl-auth-themes-mongoose",
+  "name": "nextauri",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Mark Maher",
+    "email": "contact@marco5dev.me"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
