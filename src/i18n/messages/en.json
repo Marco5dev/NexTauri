@@ -1,0 +1,37 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "userInfo": "User Information"
+  },
+  "Auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "signInWithEmail": "Sign in with Email",
+    "signInWithGoogle": "Sign in with Google",
+    "signInWithFacebook": "Sign in with Facebook",
+    "signInWithGithub": "Sign in with GitHub",
+    "signInWithDiscord": "Sign in with Discord",
+    "or": "or",
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "backToHome": "Back to Home",
+    "signOutConfirmation": "Are you sure you want to sign out?",
+    "signOutButton": "Yes, sign me out",
+    "cancel": "Cancel",
+    "errorTitle": "Authentication Error",
+    "defaultError": "An error occurred during authentication.",
+    "configurationError": "There is a problem with the server configuration.",
+    "accessDeniedError": "You do not have permission to sign in.",
+    "verificationError": "The verification link may have expired or has already been used.",
+    "tryAgain": "Try Again",
+    "checkEmail": "Check your email",
+    "verificationLinkSent": "A sign in link has been sent to your email address.",
+    "checkSpam": "If you don't see it in your inbox, check your spam folder.",
+    "backToSignIn": "Back to Sign In"
+  }
+}
